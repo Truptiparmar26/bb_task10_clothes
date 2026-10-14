@@ -1,0 +1,8 @@
+Women's clothinng data analysis report
+total review:23486
+avg rating:4.196031678446734
+median rating:5.0
+most common department:Tops
+revommendation rate:82.23622583666865%
+positive words:39751
+negative words:12773
